@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Dan Kim",
-    "label": "Back-end Developer",
+    "label": "Ruby on Rails and iOS Developer",
     "picture": "",
     "email": "itsdanya@gmail.com",
     "phone": "+7 999 963-66-33",
@@ -27,6 +27,11 @@
         "network": "Telegram",
         "username": "dankimio",
         "url": "https://t.me/dankimio"
+      },
+      {
+        "network": "Instagram",
+        "username": "dankimio",
+        "url": "https://www.instagram.com/dankimio/"
       }
     ]
   },
