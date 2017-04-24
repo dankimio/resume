@@ -39,7 +39,7 @@
     {
       "company": "BinaryBlitz",
       "position": "CTO",
-      "website": "http://binaryblitz.ru",
+      "website": "https://binaryblitz.ru",
       "startDate": "2014-12-01",
       "summary": "BinaryBlitz is a software development studio based in Moscow, Russia.",
       "highlights": [
@@ -79,7 +79,7 @@
       "area": "Software Engineering",
       "studyType": "Bachelor",
       "startDate": "2013-09-01",
-      "endDate": "2017-06-31",
+      "endDate": "2016-12-12",
       "courses": [
         "Programming",
         "Algorithms & Data Structures",
@@ -95,14 +95,14 @@
       "name": "Mutual Friendship in Rails",
       "publisher": "Dan Kim",
       "releaseDate": "2015-04-19",
-      "website": "https://dankim.io/mutual-friendship-rails",
+      "website": "https://dankim.io/mutual-friendship-rails/",
       "summary": "Add Facebook-like friendships to your Rails app."
     },
     {
       "name": "How to set up admin area in Rails with Devise and Bootstrap",
       "publisher": "Dan Kim",
       "releaseDate": "2015-11-01",
-      "website": "https://dankim.io/rails-admin-devise-bootstrap",
+      "website": "https://dankim.io/rails-admin-dashboard-devise-bootstrap/",
       "summary": "Building an admin area from scratch."
     }
   ],
