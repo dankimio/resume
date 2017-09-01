@@ -39,7 +39,7 @@
     {
       "company": "BinaryBlitz",
       "position": "CTO",
-      "website": "https://binaryblitz.ru",
+      "website": "https://binaryblitz.xyz/",
       "startDate": "2014-12-01",
       "summary": "BinaryBlitz is a software development studio based in Moscow, Russia.",
       "highlights": [
@@ -50,13 +50,25 @@
     {
       "company": "Chisto",
       "position": "Co-Founder, CTO",
-      "website": "https://chis.to",
+      "website": "https://chis.to/?locale=en",
       "startDate": "2016-12-01",
       "summary": "Chisto is an app for ordering laundry services.",
       "highlights": [
         "Software architecture design",
         "UI & UX design",
         "Full-stack development: back-end, web front-end and iOS development"
+      ]
+    },
+    {
+      "company": "YouModels",
+      "position": "Full-Stack Engineer",
+      "website": "https://youmodels.com/",
+      "startDate": "2017-07-01",
+      "summary": "Access world's models and agencies from one place.",
+      "highlights": [
+        "Architecture design",
+        "Front-end and back-end development",
+        "Payment solutions"
       ]
     },
     {
@@ -79,7 +91,7 @@
       "area": "Software Engineering",
       "studyType": "Bachelor",
       "startDate": "2013-09-01",
-      "endDate": "2016-12-12",
+      "endDate": "2016-12-31",
       "courses": [
         "Programming",
         "Algorithms & Data Structures",
@@ -122,10 +134,10 @@
       "name": "Front-end Development",
       "level": "Master",
       "keywords": [
-        "HTML, CSS",
-        "JavaScript",
+        "HTML5, Sass",
+        "JavaScript / ES6",
         "Slim",
-        "SCSS",
+        "React",
         "jQuery"
       ]
     },
@@ -134,8 +146,8 @@
       "level": "Master",
       "keywords": [
         "Swift",
+        "React Native",
         "Objective-C",
-        "Xcode",
         "Fastlane",
         "RxSwift"
       ]
