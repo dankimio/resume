@@ -6,7 +6,7 @@
     "email": "itsdanya@gmail.com",
     "phone": "+7 999 963-66-33",
     "website": "https://dankim.io",
-    "summary": "Ruby on Rails and iOS developer. Bachelor of Software Engineering. CTO at BinaryBlitz. Co-Founder at Chisto.",
+    "summary": "Ruby on Rails and iOS developer. Bachelor of Software Engineering. Co-Founder & CTO at Binary Blitz and Chisto.",
     "location": {
       "city": "Moscow",
       "countryCode": "RU",
@@ -37,11 +37,11 @@
   },
   "work": [
     {
-      "company": "BinaryBlitz",
-      "position": "CTO",
+      "company": "Binary Blitz",
+      "position": "CTO, Co-Founder",
       "website": "https://binaryblitz.xyz/",
       "startDate": "2014-12-01",
-      "summary": "BinaryBlitz is a software development studio based in Moscow, Russia.",
+      "summary": "Binary Blitz is a software development studio based in Moscow, Russia.",
       "highlights": [
         "Developed \"1 vs. 1\", a trivia game, featured by Apple",
         "Managed a team of four developers"
@@ -49,26 +49,27 @@
     },
     {
       "company": "Chisto",
-      "position": "Co-Founder, CTO",
+      "position": "CTO, Co-Founder",
       "website": "https://chis.to/?locale=en",
       "startDate": "2016-12-01",
       "summary": "Chisto is an app for ordering laundry services.",
       "highlights": [
         "Software architecture design",
         "UI & UX design",
-        "Full-stack development: back-end, web front-end and iOS development"
+        "Full-stack development: back-end, web front-end and iOS development",
+        "Payments: online and mobile payments, Apple Pay"
       ]
     },
     {
-      "company": "YouModels",
-      "position": "Full-Stack Engineer",
-      "website": "https://youmodels.com/",
+      "company": "Global Models Group",
+      "position": "CTO, Full-Stack Engineer",
+      "website": "https://globalmodelsinc.com/",
       "startDate": "2017-07-01",
       "summary": "Access world's models and agencies from one place.",
       "highlights": [
         "Architecture design",
         "Front-end and back-end development",
-        "Payment solutions"
+        "Payments (Stripe)"
       ]
     },
     {
@@ -79,7 +80,7 @@
       "summary": "Contributions to open-source projects.",
       "highlights": [
         "Maintainer of Nomad CLI: World-Class Command Line Utilities For iOS Development (https://github.com/nomad)",
-        "Member of Sorcery: Magical Authentication for Rails (https://github.com/Sorcery)",
+        "Sorcery: Magical Authentication for Rails (https://github.com/Sorcery)",
         "Creator of ActsAsLearnable: toolkit for creating flashcards in Rails apps",
         "Creator of cactus-jekyll: port of Cactus's default theme for Jekyll"
       ]
@@ -91,7 +92,7 @@
       "area": "Software Engineering",
       "studyType": "Bachelor",
       "startDate": "2013-09-01",
-      "endDate": "2016-12-31",
+      "endDate": "2017-06-30",
       "courses": [
         "Programming",
         "Algorithms & Data Structures",
@@ -135,9 +136,9 @@
       "level": "Master",
       "keywords": [
         "HTML5, Sass",
+        "CSS Grid Layout, Flexbox",
         "JavaScript / ES6",
         "Slim",
-        "React",
         "jQuery"
       ]
     },
@@ -179,6 +180,10 @@
     {
       "language": "Russian",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
     }
   ],
   "interests": [
